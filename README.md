@@ -1,6 +1,6 @@
-- 👋 Aôba, Eu sou @augustovv
-- 👀 Estou interessado aprender e fazer parte da comunidade 🤓
-- 🌱 Recentemente tenho estudado desenvolvimento web 👨‍💻
+- 👋 Olá, Eu sou @augustovv
+- 💻 Estudante do curso técnico em Desenvolvimento de Sistemas - CEFET-MG 
+
 
 <!---
 augustovv/augustovv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
